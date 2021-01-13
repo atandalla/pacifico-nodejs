@@ -12,7 +12,8 @@ _Las herramientas usadas para el desarrollo del sistema fueron_
 * [Visual Studio Code]() - Versión 1.20.x
 * [Nodejs]() - Versión 14.xx
 * [MongoDB]() - Versión Última
-* [GIT]() - Versión 2.30.x
+* [Git]() - Versión 2.30.x
+* [Ejs]() - Motor de Plantilla
 
 ### Página Web - Desplegado en Heroku y Mongo Atlas 📋
 
